@@ -65,7 +65,6 @@ task1/
 ├── QuestionSix.java
 ├── QuestionSixA.java
 ├── README.md
-└── LICENSE
 ```
 
 All Java programs are located in the root directory.
@@ -128,10 +127,6 @@ Contributions are welcome! If you have suggestions or improvements:
 3. Make your changes and commit (`git commit -m 'Add feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contact
 
