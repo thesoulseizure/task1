@@ -128,6 +128,4 @@ Contributions are welcome! If you have suggestions or improvements:
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a pull request.
 
-## Contact
 
-For any questions or feedback, please open an issue in this repository or contact dineshchandra962@gmail.com.
